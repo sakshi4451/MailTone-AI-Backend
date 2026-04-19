@@ -1,0 +1,5 @@
+Writing professional emails is a common but time-consuming task for students, job seekers, and working professionals. Many users struggle with choosing the right tone, structure, and wording depending on the context, which often leads to ineffective or unprofessional communication. This becomes even more challenging when users need to quickly generate multiple types of emails such as job applications, formal requests, or follow-ups.
+
+The goal of this project is to simplify and automate email writing using artificial intelligence. The system allows users to input a short description or intent, and it generates a well-structured, context-aware email instantly. The AI model ensures that the output is grammatically correct, professionally written, and tailored to the user's needs.
+
+This project was designed with the intention of improving productivity and reducing cognitive effort in routine communication tasks. By integrating AI capabilities into a simple web interface, the application provides an accessible solution for anyone who needs quick and effective email generation without writing from scratch.
